@@ -2,7 +2,7 @@ Summary:	Kinetic protocol description
 Summary(pl.UTF-8):	Opis protokołu Kinetic
 Name:		kinetic-protocol
 Version:	3.0.5
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Development/Libraries
 Source0:	https://github.com/Seagate/kinetic-protocol/archive/%{version}/%{name}-%{version}.tar.gz

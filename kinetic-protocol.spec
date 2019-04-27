@@ -1,12 +1,13 @@
 Summary:	Kinetic protocol description
 Summary(pl.UTF-8):	Opis protokołu Kinetic
 Name:		kinetic-protocol
-Version:	3.0.6
+Version:	4.0.1
 Release:	1
 License:	GPL v2+
 Group:		Development/Libraries
+#Source0Download: https://github.com/Kinetic/kinetic-protocol/releases
 Source0:	https://github.com/Kinetic/kinetic-protocol/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	c675d3e92fe73727b5eec1b5aa695e7d
+# Source0-md5:	0cacbbafec2686c6b7323ddb5a1599f9
 URL:		https://github.com/Kinetic/kinetic-protocol
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
